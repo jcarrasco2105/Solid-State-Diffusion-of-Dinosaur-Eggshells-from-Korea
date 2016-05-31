@@ -1,4 +1,6 @@
 # Solid-State-Diffusion-of-Dinosaur-Eggshells-from-Korea
+Abstract
+
 The stable isotopic composition of dinosaurs eggshells and soil calcites 
 from South Korea have been analyzed to determine the body temperature of 
 these dinosaurs. Carbonate clumped thermometry is a recently new paleotemperature 
